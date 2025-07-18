@@ -19,7 +19,6 @@ const WorkoutForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // For now, we'll just log the data and navigate
     console.log('User Data:', formData);
     navigate('/meal-planner'); // you can change this to a dashboard later
   };
