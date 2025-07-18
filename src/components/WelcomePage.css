@@ -1,0 +1,30 @@
+.welcome-container {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to right, #f0f4f8, #d2e3fc);
+  height: 100vh;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #2b4f81;
+}
+
+.highlight {
+  color: #ff6b6b;
+}
+
+.start-button {
+  margin-top: 30px;
+  padding: 15px 40px;
+  font-size: 1.2rem;
+  background-color: #2b4f81;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: #1e3b63;
+}
