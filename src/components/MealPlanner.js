@@ -24,7 +24,6 @@ const MealPlanner = () => {
         Dinner: 'Quinoa with sautéed vegetables'
       }
     }
-    // Add more default days if needed
   ];
 
   const generateMealPlanFromIngredients = (ingredients) => {
